@@ -1,3 +1,15 @@
 // Place all the styles related to the HomePage controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+#main {
+text-align: center;
+top: 37%;
+width: 100%;
+position: absolute;
+line-height: 1em;
+}
+
+#clock {
+  font-family: rockwell;
+  font-size: 3em;
+}
