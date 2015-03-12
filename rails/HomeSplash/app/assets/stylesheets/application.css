@@ -20,3 +20,20 @@
   background-color: #4C2544;
   color: #00CCE7;
  }
+
+ body {
+padding: 0;
+margin: 0;
+
+ }
+
+div#footer {
+position: absolute;
+bottom: 0;
+width: 100%;
+background: rgba(0,0,0,0.5);
+text-align: center;
+height: 2em;
+padding-top: 1em;
+color: white;
+}
